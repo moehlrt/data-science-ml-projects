@@ -1,5 +1,3 @@
-# DS.v3.2.3.4
-
 ## About
 
 This project performs a regression analysis on the "Vinho Verde" wine quality dataset. The goal is to understand which physicochemical properties (like acidity, sugar, alcohol, etc.) influence the sensory quality ratings of red wine.

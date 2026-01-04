@@ -1,11 +1,31 @@
-# DS.v3.2.2.5
+# A/B Testing
 
 ## About
 
 A/B Tests for the following two datasets:
-- [Fast Food Marketing Campaign](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test) from Kaggle: A/B test of marketing variants measuring conversion/revenue.
+- [Fast Food Marketing Campaign](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test) from Kaggle: A/B test of marketing variants measuring conversion/revenue. 
+
+**Scenario:**
+A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks. 
+The relevant information is included in the dataset, which we'll explore.
+
+**Goal:**
+Evaluate A/B testing results and decide which marketing strategy works the best.
+
+**Target Metric:**
+Average weekly sales per location
+
 - [Cookie Cats](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats) from Kaggle: A/B test moving the first gate from level 30 to 40; evaluate day‑1/day‑7 retention and engagement.
 
+This dataset includes A/B test results of Cookie Cats to examine what happens when the first gate in the game was moved from level 30 to level 40. When a player installed the game, he or she was randomly assigned to either gate_30 or gate_40.
+
+The data we have is from 90,189 players that installed the game while the AB-test was running.
+
+**Goal:**
+Evaluate A/B testing results and decide whether to set the gate to 30 or 40.
+
+**Target Metric:**
+0.1 * retention_1 + 0.7 * retention_7 + 0.2 * (sum_gamerounds - min)/(max - min)
 ## Repository Structure
 
 ``` 

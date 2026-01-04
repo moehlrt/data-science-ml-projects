@@ -1,4 +1,5 @@
-# DS.v3.1.4.5
+# Online Education Market Analysis
+
 ## About
 
 This repository contains a data cleaning and exploratory data analysis project on Coursera courses. The central guiding question is: "What makes a course successful?" We define a composite success metric and evaluate multiple factors such as geography, certificate type, difficulty level, organization, and subject area.
@@ -40,3 +41,7 @@ If paths differ on your machine, update them in `consts.py`.
 
 - The notebook uses Plotly for interactive visualizations; ensure internet access or a recent Plotly version.
 - Bayesian shrinkage is applied for country-level success scores to stabilize small-sample regions.
+
+## Author
+
+Moritz Ehlert

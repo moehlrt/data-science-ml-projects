@@ -1,4 +1,4 @@
-# DS.v3.1.3.5
+# Spotify Hit Analysis
 
 ## Spotify Top Tracks – Data Processing & Analysis
 This project processes and analyzes a Spotify Top-50 tracks dataset to understand characteristics of hit songs and answer basic exploration questions.
@@ -40,3 +40,7 @@ Data_Processing_Project/
 ### Dependencies
 - Python 3.10+
 - pandas, numpy, matplotlib, seaborn
+
+## Author
+
+Moritz Ehlert
