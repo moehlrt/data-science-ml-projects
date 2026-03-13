@@ -1,5 +1,3 @@
-# DS.v3.3.1.5
-
 ## About
 
 This project analyzes customer data to identify key factors influencing the purchase of travel insurance packages - based on our given dataset. We are also building a predictive classification model that identifies customers most likely to purchase the travel insurance package.
