@@ -1,0 +1,1 @@
+TRAVEL_INSURANCE_DATASET = "datasets/TravelInsurancePrediction.csv"
