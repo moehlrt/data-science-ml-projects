@@ -1,0 +1,3 @@
+#!include:.gitignore
+!model/model.pkl
+!model/feature_info.pkl
