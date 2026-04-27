@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+yfinance
+plotly
+scipy
+statsmodels
+scikit-learn
+lifelines
+lightgbm
+scikit-survival
+xgboost
+optuna
+shap
