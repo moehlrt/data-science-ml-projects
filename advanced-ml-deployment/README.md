@@ -22,7 +22,6 @@ This weekly updated dataset contains the more than 100k real asking prices for r
 ```text
 ├── .gcloudignore                       # Google Cloud ignore rules
 ├── .gitignore                          # Git ignore rules
-├── 325.md                              # Project notes
 ├── Dockerfile                          # Container setup
 ├── README.md                           # Project documentation
 ├── app.py                              # App entry point

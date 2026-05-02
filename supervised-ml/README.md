@@ -19,8 +19,7 @@ The analysis includes:
 │   ├── TravelInsurancePrediction.csv
 │   └── TravelInsurancePredictionCopy.csv
 ├── README.md                   # Project documentation
-├── requirements.txt            # Dependencies
-└── 315.md                      
+└── requirements.txt            # Dependencies                    
 ```
 
 ## Getting Started
