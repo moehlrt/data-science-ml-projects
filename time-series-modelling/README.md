@@ -16,7 +16,6 @@ Dataset: Daily granularity data for Apple (AAPL), Microsoft (MSFT), Amazon (AMZN
 
 ```text
 ├── .gitignore            # Git ignore rules
-├── 335.md                # Project notes
 ├── README.md             # Project documentation
 ├── requirements.txt      # Dependencies
 └── yfinance.ipynb        # Main notebook
